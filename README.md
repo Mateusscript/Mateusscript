@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img width="495" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mateusscript&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=9400D3&text_color=9400D3&bg_color=000000" alt="mateus ferreira github stats" />
+<img width="495" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mateusscript&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=9400D3&bg_color=000000" alt="mateus ferreira github stats" />
 
 <img width="413" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusscript&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=000000" />
 
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mateusscript&bg_color=000000&color=9a0e91&line=3b165f&point=20118d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mateusscript&bg_color=000000&color=9400D3&line=3b165f&point=20118d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
