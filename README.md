@@ -22,8 +22,11 @@
 <div style="display: inline-block;"><br>
   <img align="center" alt="mateus-dart" height="30" width="40" src="https://www.christianfindlay.com/assets/images/blog/dart/dart.png">
   <img align="center" alt="mateus-flutter" height="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png">
+  <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 
-<a href="https://www.linkedin.com/in/mateus-ferreira-a08b0b2b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 
