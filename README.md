@@ -12,7 +12,7 @@
 
 <li>🎓 Estou graduando em Ciência da Computação
 <li>👨‍💻 Estudando Dart e Flutter 
-<li>🎸 Meu hobby favorito é ouvir Metal 
+ 
   </ul>
 </p>
 
