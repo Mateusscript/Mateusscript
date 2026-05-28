@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)<br><br>
  
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=arduino,linux,vscode,git,github)](https://skillicons.dev)<br><br>
 
   
 </div>
