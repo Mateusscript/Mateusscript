@@ -3,15 +3,15 @@
 <h1 align="center">Olá,Me Chamo Mateus! </h1> 
 
 <div align="center">
-<img height="300 cm" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif"/>
+<img height="300 cm" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHYwenhsZ2U2bmMwbHJvcGdjYWx5ZnpkbWlucW5vdWtwaGpsYXl5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFDWuDppjQJjite6FS/giphy.gif"/>
 </div>
 <p>
 
 <p>
   <ul align="center" type="none">
 
-<li>🎓 Estou graduando em Ciência da Computação
-<li>👨‍💻 Estudando Dart e Flutter 
+
+<li>👨‍💻 Estudando Arduino
  
   </ul>
 </p>
