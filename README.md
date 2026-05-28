@@ -3,6 +3,15 @@
 </div>
 <div -align: right;>
 <h1 align="center">Olá,Me Chamo Mateus! </h1> 
+
+
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,)](https://skillicons.dev)<br><br>
+ 
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github)](https://skillicons.dev)<br><br>
+
+
   
 </div>
 
