@@ -5,12 +5,16 @@
 <h1 align="center">Olá,Me Chamo Mateus! </h1> 
 
 
+## 💼 Perfil Profissional
+
+- 💻 Estudante de Programação
+- ⚙️ Apaixonado por Tecnologia e automação
+
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)<br><br>
  
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github)](https://skillicons.dev)<br><br>
-
+[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,git,github)](https://skillicons.dev)<br><br>
 
   
 </div>
